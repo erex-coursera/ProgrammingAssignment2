@@ -2,7 +2,7 @@
 ##     specifically, this set of functions cache
 ##     result of matrix inversion
 ##
-##     Written 14 April 2014 as part of Corsera R Programming course
+##     Written 14 April 2014 as part of Coursera R Programming course
 ##
 ##     Skeleton forked from repository rdpeng/ProgrammingAssignment2
 

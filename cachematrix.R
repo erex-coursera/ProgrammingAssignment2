@@ -11,7 +11,7 @@
 ##     Input an assumed square, invertible matrix (no checking of input performed
 ##     Output  list of 4 functions: get/set pair and getinv/setinv pair
 ##
-##    Note side-effect use of '<<-' operator outisde of "normal" scoping practice
+##    Note side-effect use of '<<-' operator outside of "normal" scoping practice
 
 
 makeCacheMatrix <- function(x = matrix()) {
